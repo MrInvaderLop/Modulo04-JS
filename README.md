@@ -15,6 +15,11 @@ ECMAScript es el estándar que define cómo funciona JavaScript, incorporando me
 ![Código de Clase01](./img/Práctica01.png)
 
 ### Clase 02: Estructuras de datos
-En esta práctica vimos varias estructuras de datos en JavaScript. El arreglo (Array) sirve para almacenar elementos ordenadamente y permite duplicados. El Set (conjunto) almacena valores únicos sin repeticiones, ideal para evitar duplicados automáticamente. Usamos Set porque su método .has() nos permite verificar si un producto ya existe, .add() agrega elementos, .delete() elimina y .size nos dice cuántos elementos hay. También usamos for...of para recorrer estructuras como Set de forma sencilla. Gracias a estas estructuras, hicimos una lista de compras limpia, ordenada y sin errores de duplicados. 🚀
+En esta práctica vimos varias estructuras de datos en JavaScript. El arreglo (Array) sirve para almacenar elementos ordenadamente y permite duplicados. El Set (conjunto) almacena valores únicos sin repeticiones, ideal para evitar duplicados automáticamente. Usamos Set porque su método .has() nos permite verificar si un producto ya existe, .add() agrega elementos, .delete() elimina y .size nos dice cuántos elementos hay. También usamos for...of para recorrer estructuras como Set de forma sencilla. Gracias a estas estructuras, hicimos una lista de compras limpia, ordenada y sin errores de duplicados.
 
 ![Código de Clase02](./img/Práctica02.png)
+
+### Clase 03: Métodos de arreglos
+Hoy nos enfocamos en practicar los métodos filter(), sort() y map() aplicados a arreglos en JavaScript. Utilizamos sort() para ordenar productos alfabéticamente según su nombre, asegurando un orden correcto de los elementos. Con filter(), aprendimos a extraer productos que pertenecen a una categoría específica, como "Electrónica" o "Ropa". Además, empleamos map() para crear nuevos arreglos que contenían solo los nombres o precios de los productos. Estos métodos nos facilitaron transformar, organizar y seleccionar datos de manera rápida y estructurada.
+
+![Código de Clase03](./img/Práctica03.png)
