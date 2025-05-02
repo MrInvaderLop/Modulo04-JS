@@ -23,3 +23,8 @@ En esta práctica vimos varias estructuras de datos en JavaScript. El arreglo (A
 Hoy nos enfocamos en practicar los métodos filter(), sort() y map() aplicados a arreglos en JavaScript. Utilizamos sort() para ordenar productos alfabéticamente según su nombre, asegurando un orden correcto de los elementos. Con filter(), aprendimos a extraer productos que pertenecen a una categoría específica, como "Electrónica" o "Ropa". Además, empleamos map() para crear nuevos arreglos que contenían solo los nombres o precios de los productos. Estos métodos nos facilitaron transformar, organizar y seleccionar datos de manera rápida y estructurada.
 
 ![Código de Clase03](./img/Práctica03.png)
+
+### Clase 04: Algoritmo de los Dos Punteros
+El algoritmo de los dos punteros es una técnica eficiente para recorrer arreglos ordenados utilizando dos índices que avanzan según ciertas condiciones. Se emplea comúnmente para buscar pares de elementos que cumplan una propiedad específica, como sumar un valor objetivo o compartir una característica. Funciona comparando los valores en las posiciones de los punteros y ajustándolos hacia el centro o de forma secuencial. En este proyecto, el arreglo de nombres está ordenado alfabéticamente, lo que permite usar esta técnica para encontrar el primer par de nombres que comienzan con la misma letra. Los punteros inicio y siguiente recorren el arreglo sin repetir comparaciones.
+
+![Código de Clase04](./img/Práctica04.png)
