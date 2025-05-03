@@ -28,3 +28,8 @@ Hoy nos enfocamos en practicar los métodos filter(), sort() y map() aplicados a
 El algoritmo de los dos punteros es una técnica eficiente para recorrer arreglos ordenados utilizando dos índices que avanzan según ciertas condiciones. Se emplea comúnmente para buscar pares de elementos que cumplan una propiedad específica, como sumar un valor objetivo o compartir una característica. Funciona comparando los valores en las posiciones de los punteros y ajustándolos hacia el centro o de forma secuencial. En este proyecto, el arreglo de nombres está ordenado alfabéticamente, lo que permite usar esta técnica para encontrar el primer par de nombres que comienzan con la misma letra. Los punteros inicio y siguiente recorren el arreglo sin repetir comparaciones.
 
 ![Código de Clase04](./img/Práctica04.png)
+
+### Clase 05: Sliding Window
+El patrón Sliding Window es una técnica algorítmica eficiente para resolver problemas relacionados con secuencias, como arreglos o cadenas, permitiendo procesar segmentos del conjunto sin reiniciar el análisis completo en cada paso. En esta práctica, aplicamos una versión simple del patrón para analizar un texto palabra por palabra. El objetivo fue encontrar la palabra más larga recorriendo el arreglo generado.
+
+![Código de Clase05](./img/Práctica05.png)
