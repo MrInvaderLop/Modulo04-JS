@@ -38,3 +38,8 @@ El patrón Sliding Window es una técnica algorítmica eficiente para resolver p
 La recursión es una técnica en programación donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños. El backtracking es una estrategia basada en recursión que explora todas las posibles soluciones y retrocede cuando una opción no lleva al resultado deseado. Ambos métodos son útiles para resolver problemas como búsqueda, combinaciones o laberintos. En la práctica realizada, usamos recursión para buscar un regalo dentro de una lista, evaluando cada elemento hasta encontrar el deseado o llegar al final. Esta actividad refuerza la lógica de casos base y llamadas recursivas paso a paso.
 
 ![Código de Clase06](./img/Práctica06.png)
+
+### Clase 07: Divide and Conquer
+Divide and Conquer (Dividir y Vencer) es una técnica algorítmica que resuelve problemas al dividirlos en subproblemas más pequeños, resolver cada uno recursivamente y combinar sus soluciones. Este enfoque es eficiente para arreglos grandes, ya que reduce el problema paso a paso. En la práctica realizada, se aplicó esta técnica para encontrar el número máximo en un arreglo dividiéndolo en mitades hasta llegar a arreglos de un solo elemento. Luego se compararon los máximos de cada parte usando Math.max. Esto refuerza cómo combinar recursión con lógica para resolver problemas más complejos.
+
+![Código de Clase07](./img/Práctica07.png)
