@@ -33,3 +33,8 @@ El algoritmo de los dos punteros es una técnica eficiente para recorrer arreglo
 El patrón Sliding Window es una técnica algorítmica eficiente para resolver problemas relacionados con secuencias, como arreglos o cadenas, permitiendo procesar segmentos del conjunto sin reiniciar el análisis completo en cada paso. En esta práctica, aplicamos una versión simple del patrón para analizar un texto palabra por palabra. El objetivo fue encontrar la palabra más larga recorriendo el arreglo generado.
 
 ![Código de Clase05](./img/Práctica05.png)
+
+### Clase 06: Recursión y Backtracking
+La recursión es una técnica en programación donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños. El backtracking es una estrategia basada en recursión que explora todas las posibles soluciones y retrocede cuando una opción no lleva al resultado deseado. Ambos métodos son útiles para resolver problemas como búsqueda, combinaciones o laberintos. En la práctica realizada, usamos recursión para buscar un regalo dentro de una lista, evaluando cada elemento hasta encontrar el deseado o llegar al final. Esta actividad refuerza la lógica de casos base y llamadas recursivas paso a paso.
+
+![Código de Clase06](./img/Práctica06.png)
