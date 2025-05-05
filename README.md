@@ -43,3 +43,8 @@ La recursión es una técnica en programación donde una función se llama a sí
 Divide and Conquer (Dividir y Vencer) es una técnica algorítmica que resuelve problemas al dividirlos en subproblemas más pequeños, resolver cada uno recursivamente y combinar sus soluciones. Este enfoque es eficiente para arreglos grandes, ya que reduce el problema paso a paso. En la práctica realizada, se aplicó esta técnica para encontrar el número máximo en un arreglo dividiéndolo en mitades hasta llegar a arreglos de un solo elemento. Luego se compararon los máximos de cada parte usando Math.max. Esto refuerza cómo combinar recursión con lógica para resolver problemas más complejos.
 
 ![Código de Clase07](./img/Práctica07.png)
+
+### Clase 08: Introducción a Node.js
+En este proyecto correspondiente a la introducción a Node.js, aprendimos a manejar archivos con el módulo fs. Utilizando información y ejercicios de la plataforma Campus, desarrollamos una aplicación básica para gestionar notas. Implementamos funciones para agregar, listar y eliminar notas almacenadas en un archivo notas.json. Aprendimos a usar JSON.parse y JSON.stringify para trabajar con datos estructurados. También exploramos cómo detectar si un archivo existe, leer su contenido y actualizarlo correctamente.
+
+![Código de Clase07](./img/Práctica08.png)
